@@ -12,7 +12,7 @@ Steps to Run :
 3) Edit file path of df = "..." parameter
 4) Run analysis by analysis
 
-File Usage :
+File Purpose :
 1) Operation_Code.R = Contains all the code for running
 2) employee_attrition.csv = Employeement dataset
-3) Documentation = The insights and reasoning drawn from data analysis
+3) Documentation.docx = The insights and reasoning drawn from data analysis
